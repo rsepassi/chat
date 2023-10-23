@@ -1,0 +1,13 @@
+pip install -r requirements.txt
+./wikidump.sh
+export OPENAI_API_KEY=....
+./chat.txt
+
+
+
+https://github.com/run-llama/llama_index
+https://docs.llamaindex.ai/en/stable/
+
+
+~340k articles
+https://dumps.wikimedia.org/simplewiki/
